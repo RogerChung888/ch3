@@ -17,6 +17,6 @@ if momo=='ch3':
 	print('14 it is your turn')
 	print('15 where are you,Dino')
 	print('16 look he is sleeping')
-if momo=='不知道':
+if momo!='不知道':
 
           print('你打錯了 請重新輸入')
